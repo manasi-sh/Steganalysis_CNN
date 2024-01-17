@@ -1,1 +1,1 @@
-# Steganalysis_CNN
+Steganalysis using convolutional neural network (CNN)
